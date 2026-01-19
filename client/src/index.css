@@ -1,0 +1,82 @@
+.hero-content {
+    /* background-color: #F5F5F0; */
+    background-image: url('https://media.istockphoto.com/id/1401295466/vector/halftone-spotted-background.jpg?s=612x612&w=0&k=20&c=ql7PRJ1ffHk-Zkj4cDeePpLzmqAPzgIVtfBkCsoqK2Q=');
+}
+
+.hero-content h1 {
+    text-transform: uppercase;
+    font-weight: 900;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #432323;
+}
+
+.hero-content .btn {
+    background-color: #2F5755 !important;
+    color: #fff;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+}
+
+/* ======================================== */
+.navbar {
+    background: #2F5755 !important;
+    /* background: radial-gradient(circle, rgba(42, 123, 155, 1) 0%, rgba(10, 43, 23, 1) 100%, rgba(23, 23, 10, 1) 100%) !important; */
+}
+
+.navbar-brand {
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+}
+
+.nav-link {
+    color: #fff !important;
+}
+
+/* ==================================================== */
+.allCars {
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20191011/pngtree-abstract-white-background-with-rounded-squares-image_319149.jpg');
+    padding-top: 50px;
+}
+
+.allCars h3 {
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.allCars p {
+    color: #2F5755;
+    font-family: cursive;
+}
+
+/* ============================================================== */
+.card-img-top {
+    padding: 15px;
+}
+
+.card-body {
+    text-align: center;
+    background-color: #2F5755;
+    font-size: 30px;
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card-body .card-price {
+    font-size: 1rem;
+    color: yellow;
+}
+
+
+/* ==================================  */
+.footer {
+
+    background: #2A7B9B !important;
+    background: radial-gradient(circle, rgba(42, 123, 155, 1) 0%, rgba(10, 43, 23, 1) 100%, rgba(23, 23, 10, 1) 100%) !important;
+
+    color: #fff;
+}

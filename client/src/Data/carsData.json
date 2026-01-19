@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Honda City",
+        "category": "sedan",
+        "seats": "5",
+        "fuel": "petrol",
+        "year": "2025",
+        "model": "Top",
+        "milage": "14",
+        "price": 1500,
+        "transmission": false,
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/134287/city-exterior-right-front-three-quarter-78.jpeg?isig=0&q=80",
+        "about": "The City excels in space and comfort, is reasonably feature-packed, and gets ADAS too. It’s also impressive for its reliability, powerful 1.5-litre petrol engine's refinement, and is known for the six-speed manual's performance and CVT's convenience."
+    },
+    {
+        "id": 2,
+        "name": "Wagon R",
+        "category": "hetchback",
+        "seats": "5",
+        "fuel": "petrol",
+        "year": "2025",
+        "model": "Top",
+        "milage": "20",
+        "price": 1000,
+        "transmission": false,
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/112947/wagon-r-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80",
+        "about": "The Wagon R is a versatile hatchback, offering ample space and smart storage options thanks to its tall design. With a comfortable ride, decent features, and a fuel-efficient engine with both petrol and CNG power it's ideal for easy city commuting."
+    },
+    {
+        "id": 3,
+        "name": "Defender",
+        "category": "luxary",
+        "seats": "5",
+        "fuel": "petrol",
+        "year": "2025",
+        "model": "Top",
+        "milage": "10",
+        "price": 5000,
+        "transmission": false,
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/55215/defender-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80",
+        "about": "The Land Rover Defender offers three- and five-door options with four petrol and one diesel engine options. Its rugged build quality and off-road capability combine with excellent ride quality and on-road comfort."
+    },
+    {
+        "id": 4,
+        "name": "Mahindra BE 6 ",
+        "category": "electric",
+        "seats": "5",
+        "fuel": "electric",
+        "year": "2025",
+        "model": "Top",
+        "milage": "210",
+        "price": 2000,
+        "transmission": false,
+        "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/131825/be-6e-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80",
+        "about": "The Mahindra BE 6 is the brand's first born-electric vehicle, built on an advanced INGLO platform designed for EVs. It offers a futuristic coupe-style SUV stance and a choice between 59kWh and 79kWh battery packs,"
+    }
+]
